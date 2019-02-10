@@ -1,0 +1,17 @@
+Welcome to Nim
+
+$
+$
+$
+Initial stone count: 1
+Maximum stone removal: 1
+Player 1: aaaa aaa
+Player 2: bbbb bbb
+
+1 stones left: *
+aaaa's turn - remove how many?
+
+Game Over
+bbbb bbb wins!
+
+$
