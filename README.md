@@ -13,5 +13,4 @@ mined by the computer rather than a game user
 bonus marks)
 
 The system should still operate as specified in Project B, but with ad-
-ditional functionality, due to the addition of the aforementioned features. Thus, it is advised that you
-use your Project B solution as a starting point for implementing Project C.
+ditional functionality, due to the addition of the aforementioned features. Thus, it is advised to use Project B solution as a starting point for implementing Project C.
