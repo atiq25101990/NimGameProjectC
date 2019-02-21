@@ -12,6 +12,6 @@ mined by the computer rather than a game user
 * An advanced Nim game and a victory guaranteed strategy for the AI player in this new game (for
 bonus marks)
 
-The system should still operate as specified in Project B (refer to ProjB.pdf for details), but with ad-
+The system should still operate as specified in Project B, but with ad-
 ditional functionality, due to the addition of the aforementioned features. Thus, it is advised that you
 use your Project B solution as a starting point for implementing Project C.
